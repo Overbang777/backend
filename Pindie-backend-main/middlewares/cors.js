@@ -1,5 +1,6 @@
 const allowedCors = [
   "https://overbang777.nomoredomainswork.ru",
+  "https://overbang7777.nomoredomainswork.ru"
 ];
 
 function cors(req, res, next) {
